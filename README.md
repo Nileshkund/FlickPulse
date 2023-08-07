@@ -1,4 +1,4 @@
-# Movie-store ( ImdB clone) Created by :- Mudit Sharma
+# Movie-store ( ImdB clone) Created by :- NILESH KUND
 
 Are you a Cinephile. This Project is for Movie fans... Learn about your favourite movies and look at the new upcoming features of your Favourite Stars.
 
